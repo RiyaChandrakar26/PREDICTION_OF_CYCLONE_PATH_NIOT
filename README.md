@@ -1,5 +1,10 @@
 # 🌪️ Cyclone Track Forecasting using Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange)
+![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## 📌 Project Description
 
 This project presents a **data-driven cyclone track prediction system** developed for the **North Indian Ocean (NIO)** region.
