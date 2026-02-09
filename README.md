@@ -49,7 +49,7 @@ These displacement values are the **prediction targets** for all models.
 
 - **Source:** ERA5 (ECMWF)  
 - **Spatial Patches:** 5-channel 80 x 80
-- - **Temporal Resolution:** 6-hourly (aligned with cyclone tracks)
+- **Temporal Resolution:** 6-hourly (aligned with cyclone tracks)
 
 **Atmospheric Variables Used**
 - U850 – Zonal wind at 850 hPa  
