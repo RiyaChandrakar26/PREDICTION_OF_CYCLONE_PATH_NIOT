@@ -88,12 +88,6 @@ These variables capture **environmental steering flow** and **large-scale circul
 
 ---
 
-### 🔹 GRU-Motion
-- Uses only past cyclone motion (Δlat, Δlon)  
-- Learns trajectory dynamics without atmospheric inputs  
-
----
-
 ### 🔹 GRU-Fusion
 - Combines motion features and atmospheric features  
 - Jointly models environmental and kinematic effects  
@@ -115,10 +109,6 @@ Model performance is evaluated using **Mean Absolute Error (MAE)**:
 | CNN-GRU      | 12h       | 106.50   | 
 | CNN-GRU      | 24h       | 200.84   | 
 | CNN-GRU      | 48h       | 365.86   | 
-| GRU-Motion   | 6h        | 33.48    | 
-| GRU-Motion   | 12h       | 66.36    | 
-| GRU-Motion   | 24h       | 147.14   | 
-| GRU-Motion   | 48h       | 344.87   | 
 | GRU-Fusion   | 6h        | 32.77    | 
 | GRU-Fusion   | 12h       | 65.03    | 
 | GRU-Fusion   | 24h       | 141.97   | 
